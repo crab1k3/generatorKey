@@ -1,0 +1,7 @@
+﻿  generatorKey.cpp
+D:\Новая папка (2)\cpp\generatorKey\generatorKey\generatorKey.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  generatorKey.vcxproj -> D:\Новая папка (2)\cpp\generatorKey\x64\Release\generatorKey.exe
