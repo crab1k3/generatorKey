@@ -44,5 +44,5 @@ int main() {
         std::cout << key << std::endl;
     }
 
-    return 0;
+    system("pause");
 }
